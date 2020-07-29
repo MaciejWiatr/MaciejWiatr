@@ -1,6 +1,6 @@
 ### Hello there 👋
-## My name is Maciej
-# and i am student at ZSEL1 Cracow
+### My name is Maciej
+### and i am student at ZSEL1 Cracow
 
 <!--
 **MaciejWiatr/MaciejWiatr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
