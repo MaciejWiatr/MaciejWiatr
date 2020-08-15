@@ -1,6 +1,14 @@
-### Hello there 👋
-### My name is Maciej
-### and i am student at ZSEL1 Cracow
+# Hello! My name is Maciej 👋
+### And i'm a Student at ZSEL1 Cracow
+
+I'm a creative aspiring developer looking for internship opportunities
+
+### Let's stay in touch:
+[<img align="left" alt="wiatr.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://wiatr.tech)
+[<img align="left" alt="maciej.wiatr00@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:maciej.wiatr00@gmail.com)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MaciejWiatr)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **MaciejWiatr/MaciejWiatr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
