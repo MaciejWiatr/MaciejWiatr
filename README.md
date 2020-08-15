@@ -1,13 +1,15 @@
 # Hello! My name is Maciej 👋
 ### And i'm a Student at ZSEL1 Cracow
 
-I'm a creative aspiring developer looking for internship opportunities
+I'm a creative aspiring developer actively looking for internship opportunities
 
 ### Let's stay in touch:
 [<img align="left" alt="wiatr.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://wiatr.tech)
 [<img align="left" alt="maciej.wiatr00@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:maciej.wiatr00@gmail.com)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MaciejWiatr)](https://github.com/anuraghazra/github-readme-stats)
+
+<br /><br />
+<img align="left" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaciejWiatr&count_private=true" />
 
 
 <!--
