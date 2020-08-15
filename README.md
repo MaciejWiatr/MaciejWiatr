@@ -1,10 +1,13 @@
 # Hello! My name is Maciej 👋
 
-I'm a creative aspiring developer actively looking for internship opportunities, currently studying computer science at ZSEL1 Cracow
+I'm a creative 18 y/o aspiring developer actively looking for internship or project opportunities, currently studying computer science at ZSEL1 Cracow.
+
 
 ### Let's stay in touch:
 [<img align="left" alt="wiatr.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://wiatr.tech)
 [<img align="left" alt="maciej.wiatr00@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:maciej.wiatr00@gmail.com)
+[<img align="left" alt="maciej.wiatr00@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/maciej-wiatr/)
+
 
 
 <br /><br />
