@@ -23,14 +23,12 @@ I'm a creative 18 y/o aspiring developer actively looking for internship or proj
 
 - 🤔 I’m looking for help with ...
 -->
-#### Stats
-
+### Stats
 <br /><br />
 <img align="left" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaciejWiatr&count_private=true" />
 <br /><br />
 <img align="left" width="500px" alt="My WakaTime stats" src="https://wakatime.com/share/@MaciejWiatr/5741d385-bbb6-43e8-9433-3db2c9daf210.png" />
-<br /><br />
-<img align="left" width="500px" alt="My WakaTime stats" src="https://wakatime.com/share/@MaciejWiatr/763173ea-f67d-4958-b6ed-6d91ca86e04e.png" />
+
 
 <!--
 **MaciejWiatr/MaciejWiatr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
