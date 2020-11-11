@@ -26,6 +26,7 @@ I'm a creative 18 y/o aspiring developer actively looking for internship or proj
 ### Stats
 <img align="left" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaciejWiatr&count_private=true" />
 <br /><br />
+<figure><embed src="https://wakatime.com/share/@MaciejWiatr/213a2987-b196-4e20-9d80-2223a0c222fa.svg"></embed></figure>
 
 
 <!--
