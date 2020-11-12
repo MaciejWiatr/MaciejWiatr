@@ -17,7 +17,7 @@ I'm a creative 18 y/o aspiring developer actively looking for internship or proj
 <br />
 
 #### 🌱 I’m currently learning: Express 🚀
-#### 👯 I’m looking to collaborate! Just reach out to me and i'm going to be happy helping you on your project!
+#### 👯 I’m looking to collaborate! Just reach out to me and i'll be happy to help you on your project!
 <!--
 - 🔭 I’m currently working on ...
 
