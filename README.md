@@ -16,7 +16,7 @@ I'm a creative 18 y/o aspiring developer actively looking for internship or proj
 <img align="left" alt="wiatr.tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/next-dot-js.svg" />
 <br />
 
-#### 🌱 I’m currently learning: Next.js
+#### 🌱 I’m currently learning: Express 🚀
 #### 👯 I’m looking to collaborate! Just reach out to me and i'm going to be happy helping you on your project!
 <!--
 - 🔭 I’m currently working on ...
