@@ -13,10 +13,7 @@ I'm a creative 18 y/o aspiring developer actively looking for internship or proj
 [<img alt="https://github.com/MaciejWiatr/Cookup" width="250px" src="https://i.imgur.com/2MMirw6.png" />](https://github.com/MaciejWiatr/Cookup)
 <br/>
 #### 🌱 I’m currently learning: Express 🚀
-<br/>
-
 ### Favourite technologies 💝
-<br />
 <img align="left" alt="wiatr.tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/react.svg" />
 <img align="left" alt="wiatr.tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/django.svg" />
 <img align="left" alt="wiatr.tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/python.svg" />
