@@ -14,7 +14,9 @@ I'm a creative 18 y/o aspiring developer actively looking for internship or proj
 <br/>
 #### 🌱 I’m currently learning: Express 🚀
 <br/>
+
 ### Favourite technologies 💝
+<br />
 <img align="left" alt="wiatr.tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/react.svg" />
 <img align="left" alt="wiatr.tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/django.svg" />
 <img align="left" alt="wiatr.tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/python.svg" />
