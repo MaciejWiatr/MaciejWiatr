@@ -6,6 +6,14 @@ I'm a creative 18 y/o aspiring developer actively looking for internship or proj
 [<img align="left" alt="wiatr.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://wiatr.tech)
 [<img align="left" alt="maciej.wiatr00@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:maciej.wiatr00@gmail.com)
 [<img align="left" alt="maciej.wiatr00@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/maciej-wiatr/)
+### Most valuable projects 📝
+[<img align="left" alt="wiatr.tech" width="250px" src="https://i.imgur.com/LCA9r8D.png" />](https://github.com/MaciejWiatr/Nextagram)
+[<img align="left" alt="wiatr.tech" width="250px" src="https://i.imgur.com/Trpp9m4.png" />](https://github.com/MaciejWiatr/Django-Blog)
+[<img align="left" alt="wiatr.tech" width="250px" src="https://i.imgur.com/2MMirw6.png" />](https://github.com/MaciejWiatr/Cookup)
+
+
+<br />
+
 <br />
 ### Favourite technologies 💝
 <img align="left" alt="wiatr.tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/react.svg" />
