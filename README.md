@@ -10,8 +10,10 @@ I'm a creative 18 y/o aspiring developer actively looking for internship or proj
 ### Most valuable projects 📝
 [<img align="left" alt="https://github.com/MaciejWiatr/Nextagram" width="250px" src="https://i.imgur.com/LCA9r8D.png" />](https://github.com/MaciejWiatr/Nextagram)
 [<img align="left" alt="https://github.com/MaciejWiatr/Django-Blog" width="250px" src="https://i.imgur.com/Trpp9m4.png" />](https://github.com/MaciejWiatr/Django-Blog)
-[<img align="left" alt="https://github.com/MaciejWiatr/Cookup" width="250px" src="https://i.imgur.com/2MMirw6.png" />](https://github.com/MaciejWiatr/Cookup)
+[<img alt="https://github.com/MaciejWiatr/Cookup" width="250px" src="https://i.imgur.com/2MMirw6.png" />](https://github.com/MaciejWiatr/Cookup)
+<br/>
 #### 🌱 I’m currently learning: Express 🚀
+<br/>
 ### Favourite technologies 💝
 <img align="left" alt="wiatr.tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/react.svg" />
 <img align="left" alt="wiatr.tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/django.svg" />
