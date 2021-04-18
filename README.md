@@ -6,6 +6,7 @@ I'm a creative 18 y/o aspiring developer actively looking for internship or proj
 [<img align="left" alt="wiatr.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://wiatr.tech)
 [<img align="left" alt="maciej.wiatr00@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:maciej.wiatr00@gmail.com)
 [<img align="left" alt="maciej.wiatr00@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/maciej-wiatr/)
+[<img align="left" alt="maciej.wiatr00@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/maciej_wiatr)
 <br/>
 ### Most valuable projects 📝
 [<img align="left" alt="https://github.com/MaciejWiatr/Nextagram" width="250px" src="https://i.imgur.com/LCA9r8D.png" />](https://github.com/MaciejWiatr/Nextagram)
