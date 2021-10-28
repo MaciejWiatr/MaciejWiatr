@@ -1,6 +1,6 @@
 # Hello! I'm Maciej 👋
 
-I'm a creative 18 y/o aspiring developer actively looking for internship or project opportunities, currently studying computer science at ZSEL1 Cracow.
+I'm a creative 19 y/o aspiring developer actively looking for internship or project opportunities, currently studying computer science at ZSEL1 Cracow.
 
 ### Let's stay in touch ☎:
 
