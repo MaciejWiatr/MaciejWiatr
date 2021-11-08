@@ -45,6 +45,6 @@ I'm a 19 y/o aspiring developer actively looking for internship, junior-level jo
 
 ### Stats
 
-<img align="left" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaciejWiatr&count_private=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaciejWiatr&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 <br /><br />
 <!--
