@@ -1,3 +1,5 @@
+![Banner](https://i.imgur.com/yOnLViv.png)
+<!--
 # Hello! I'm Maciej 👋
 
 I'm a 19 y/o aspiring developer actively looking for internship, junior-level job or project opportunities, currently studying computer science at ZSEL1 Cracow.
@@ -8,7 +10,7 @@ I'm a 19 y/o aspiring developer actively looking for internship, junior-level jo
 <a href="mailto:maciej.wiatr00@gmail.com?subject=Hello!%20👋"><img align="left" src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/maciej-wiatr/"><img align="left" src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br/>
-
+-->
 ### Most valuable projects 📝
 
 | Project name                                                                               | Description                                                    | Technologies used                                                     |
