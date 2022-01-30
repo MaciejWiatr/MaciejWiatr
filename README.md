@@ -15,6 +15,7 @@ I'm a 19 y/o aspiring developer actively looking for internship, junior-level jo
 
 | Project name                                                                               | Description                                                    | Technologies used                                                     |
 | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------- | --------------------------------------------------------------------- |
+| <a href="https://github.com/MaciejWiatr/wiatr-blog">Personal Blog</a>           | My personal blog           | Typescript, React, Next.js, Tailwind CSS, Github Actions, zustand, GraphQL, Prisma and many more!     |
 | <a href="https://github.com/MaciejWiatr/klub-celtycki">Klub Celtycki website</a>           | Website for the elderly organization "Klub Celtycki"           | Typescript, React, Next.js, Tailwind CSS, Github Actions, zustand     |
 | <a href="https://github.com/MaciejWiatr/aquahome">Aqua Home</a>                            | Complete household water management system                     | TypeScript, React, Next.js, Chakra UI, Zustand, Recharts, Flask       |
 | <a href="https://github.com/MaciejWiatr/prisme-arbitre-frontend">Prisme Arbiter Search</a> | Search engine made to select ideal arbitrator for a court case | React, Next.js, Django Rest Framework, Zustand, Chakra UI             |
