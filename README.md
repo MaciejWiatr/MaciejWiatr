@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/yOnLViv.png)
+![banner](https://i.imgur.com/urshtV6.png)
 
 <!--
 # Hello! I'm Maciej 👋
