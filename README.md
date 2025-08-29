@@ -13,7 +13,7 @@ I'm a 19 y/o aspiring developer actively looking for internship, junior-level jo
 <br/>
 -->
 
-### Most valuable projects 📝
+### (old) Most valuable projects 📝
 
 | Project name                                                                               | Description                                                    | Technologies used                                                                                 |
 | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
